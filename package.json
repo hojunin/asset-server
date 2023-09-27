@@ -2,6 +2,9 @@
   "name": "image-server",
   "packageManager": "yarn@3.3.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
   }
